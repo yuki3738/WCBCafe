@@ -99,3 +99,14 @@ img {
 #home .page-title {
   text-transform: none;
 }
+
+/* chapter 4-7 */
+/* #home {
+  background-color: #0bd;
+  background-blend-mode: hard-light;
+  background-image: linear-gradient(#c9ffbf, #ffafbd);
+  min-height: 100vh;
+  background-image: url(../images/main-bg.jpg),linear-gradient(#c9ffbf, #ffafbd);
+  background-blend-mode: luminosity;
+  min-height: 100vh;
+} */
