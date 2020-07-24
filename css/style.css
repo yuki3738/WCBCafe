@@ -110,3 +110,15 @@ img {
   background-blend-mode: luminosity;
   min-height: 100vh;
 } */
+
+/* NEWS */
+
+#news {
+  background-image: url(.../images/news-bg.jpg);
+  height: 270px;
+  margin-bottom: 400px;
+}
+
+#news .page-title {
+  text-align: center;
+}
