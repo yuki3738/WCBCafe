@@ -335,6 +335,10 @@ aside p {
       margin-left: 80px;
   }
 
+  .ad {
+    display:none;
+  }
+
   /* MENU */
   .menu-content {
     margin-top: 20%;
